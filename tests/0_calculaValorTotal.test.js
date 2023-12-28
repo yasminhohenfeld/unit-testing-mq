@@ -4,7 +4,7 @@ const calculaValorTotal = require('../src/0_calculaValorTotal');
 test('teste de carrinho cheio', () => {
     // parâmetro de teste p/ a função
     const burritos = [
-        { valor: 20 },
+        { valor: 20 }, 
         { valor: 30 },
         { valor: 40 },
     ]
